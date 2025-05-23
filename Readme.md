@@ -2,7 +2,7 @@
 
 一、核心业务流程图：
 
-![image.png](AI智能测评系统+0fb84572-2877-4b8d-b1e0-79f627b38483/image.png)
+![image.png](https://github.com/kjkyes/kangdada-backend/blob/master/image.png)
 
 ---
 
