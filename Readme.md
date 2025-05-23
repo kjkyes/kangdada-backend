@@ -16,9 +16,9 @@
 
         - 拥有帐号之后点击页面右上方的API keys，可使用默认的key，也可以自定义不同应用场景的key（切记开源项目前要隐藏好自己的key哦~）：
 
-            ![api+key.png](AI智能测评系统+0fb84572-2877-4b8d-b1e0-79f627b38483/api+key.png)
+            ![api+key.png](https://github.com/kjkyes/kangdada-backend/blob/master/api+key.png)
 
-            ![keys.png](AI智能测评系统+0fb84572-2877-4b8d-b1e0-79f627b38483/keys.png)
+            ![keys.png](https://github.com/kjkyes/kangdada-backend/blob/master/keys.png)
 
         - 大家也可以选用其他平台的大模型，查看他们的官方文档如何接入即可
 
@@ -157,7 +157,7 @@
 
     随后我们可以看到AI生成的测评结果：
 
-    ![mbti测评结果.png](AI智能测评系统+0fb84572-2877-4b8d-b1e0-79f627b38483/mbti测评结果.png)
+    ![mbti测评结果.png](https://github.com/kjkyes/kangdada-backend/blob/master/mbti测评结果.png)
 
     ```Markdown
     根据你提供的答案，你的MBTI性格类型为内向直觉思考判断（INTJ），这是一种较为罕见但非常强大的性格类型。你倾向于独立思考，具有战略眼光，能够在复杂问题中找到解决方案。你喜欢分析和理论，对于细节有很高的关注，能够在逻辑和客观分析的基础上做出决策。在社交场合中，你可能显得比较保守，更倾向于深度交流而非表面的闲聊。你重视效率，对时间的利用有严格的要求，通常不喜欢浪费在不必要的细节上。总的来说，你是一个有远见、有条理、决策果断的个体，非常适合从事需要分析和策略规划的职业。
